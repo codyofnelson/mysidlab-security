@@ -1,8 +1,10 @@
 ---
 users:
-  - name: user1
+  - name: luser31
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: luser32
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: luser33
     aws_groups: "palmsprings, indio, sandiego"
+  - name: frogman
+    aws_groups: "indio"
